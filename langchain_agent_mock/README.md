@@ -16,7 +16,7 @@ python agent_demo.py
 예상 결과:
 
 ```text
-do구 호출 결과: 5
+도구 호출 결과: 5
 ```
 
 다음 실습에서는 `run_agent()`의 라우터를 실제 LLM 기반 LangChain agent로 교체하면 됩니다.
